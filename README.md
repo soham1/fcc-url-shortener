@@ -21,7 +21,7 @@ User Story: When I visit that shortened URL, it will redirect me to my original 
 
 ##Demo
 
-[![ScreenShot](images/VideoPicture_UrlShortener.PNG)](https://youtu.be/TKOJHJ1bE68)
+[![ScreenShot](images/VideoPictureUrlShortener.PNG)](https://youtu.be/TKOJHJ1bE68)
 
 ##Technologies Used:
 - Node.js
