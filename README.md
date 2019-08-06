@@ -1,4 +1,4 @@
-#Url Shortener
+# Url Shortener
 
 This is a solution for http://www.freecodecamp.com/challenges/url-shortener-microservice
 
@@ -8,22 +8,22 @@ User Story: If I pass an invalid URL that doesn't follow the valid http://www.ex
 
 User Story: When I visit that shortened URL, it will redirect me to my original link.
 
-##Screenshots:
+## Screenshots:
 
-###Homepage
+### Homepage
 <img src="/images/UrlShortener1.PNG">
 
-###Add /new/INSERT URL to get a shortened URL
+### Add /new/INSERT URL to get a shortened URL
 <img src="/images/UrlShortener2.PNG">
 
-###Going to shortened link leads us to the destination link
+### Going to shortened link leads us to the destination link
 <img src="/images/UrlShortener3.PNG">
 
-##Demo
+## Demo
 
 [![ScreenShot](images/VideoPictureUrlShortener.PNG)](https://youtu.be/TKOJHJ1bE68)
 
-##Technologies Used:
+## Technologies Used:
 - Node.js
 - Express
 - MongoDB
